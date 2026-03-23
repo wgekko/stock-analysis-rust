@@ -9,13 +9,14 @@ entre python y rust. Buscando la optimización de tiempos de respuesta de las co
 la estructura del proyecto es
 
 STOCK-ANALYSIS-RUST
----.STREAMLIT
+
+1-.STREAMLIT
 -------config.toml
----PAGES
+2---PAGES
 ------1-ARCHIVO
 ------2-ARCHIVO
 ------3-ARCHIVO
----RUST_ENGINE
+3---RUST_ENGINE
 -----SRC
 ---------LIB.RS
 -----TARGET
@@ -25,8 +26,8 @@ STOCK-ANALYSIS-RUST
 ---------CARGO.LOCK
 .........CARGO.TOML
 ---------PYPROJECT.TOML
----APP.PY
----REQUIMENTS.TXT
+4---APP.PY
+5--REQUIMENTS.TXT
 
 IMPORTANTE ESTOS COMANDO ESTA PENSADOS SI SE TRABAJA DESDE LINUX 
 USANDO LA TERMINAL 
