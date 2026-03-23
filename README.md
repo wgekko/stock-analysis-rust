@@ -44,5 +44,18 @@ pip install --user target/wheels/oscilador-0.1.0-cp312-cp312-manylinux_2_34_x86_
 
 
 luego para ejecutar la app se debe correr en al terminal dentro del proyecto 
+
+
+video demo de la app 
+
+
+
+https://github.com/user-attachments/assets/88d78e70-9396-4ef7-a2a6-76a4d2fadb75
+
+
+
+
+
+
 el comando 
 streamlit run app.py
